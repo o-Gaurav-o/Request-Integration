@@ -1,0 +1,5 @@
+{
+  "name": "Saleshandy - Request Integrations UI",
+  "description": "A recreation of the Saleshandy Integrations settings page with a new 'Request Integration' workflow feature.",
+  "requestFramePermissions": []
+}
